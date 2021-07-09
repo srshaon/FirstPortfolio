@@ -83,14 +83,24 @@ h2{
 }
 .Programming-hero{
     width: 40%;
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(157, 255, 0), rgba(255, 238, 0, 0.795));
+    border-image-slice: 1;
     
 }
 .DevSkill{
     width: 44%;
-    
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
 }
 .bottom-section{
+    margin-bottom: 20px;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+footer p{
+    text-align: center;
+    font-weight: 700;
 }
