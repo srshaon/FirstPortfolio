@@ -10,7 +10,7 @@ h1{
     color: orange;
     
 }
-section{
+.flexible-container{
     display: flex;
     
     
@@ -55,6 +55,7 @@ section{
     
     background-repeat: no-repeat;
     background-position: right;
+    
 }
 .mid-section-image{
     width: 35%;
@@ -69,4 +70,10 @@ section{
 .mid-section-text{
     width: 65%;
     font-size: 22px;
+}
+.devskill{
+    width: 50%;
+}
+.programming-hero{
+    width: 50%;
 }
