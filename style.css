@@ -27,17 +27,18 @@ h2{
 }
 
 .text-only{
-    width: 70%;
+    width: 65%;
     padding-left: 25px;
     
 }
 .image-only{
-    width: 30%;
+    width: 35%;
 }
 .image-only img{
     width: 100%;
     margin-left: 0px;
-    margin-top: 18px;
+    margin-top: 40px;
+    height: 90%;
 }
 .paragraphOne-text{
     font-size: 20px;
@@ -68,6 +69,7 @@ h2{
     width: 90%;
     margin-top: 10px;
     padding-left: 30px;
+    height: 100%;
     
 }
 .mid-section-text{
